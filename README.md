@@ -13,28 +13,35 @@
     </div>
 
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-    
+    </p>
+
+  
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+🎓 &nbsp;I've completed B.sc in Computer Science and Engineering at American International University-Bangladesh.\
+💼 &nbsp;I'm currently working in shurjoMukhi Ltd. – The leading software outfit in Bangladesh as junior softare engineer.\
+🌱 &nbsp;I'm on track for learning more about Standard coding, Systems Design, and new echnologies.\
+✍️ &nbsp;In my free time, I watch movies and learn new things as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at wali.mosnad.ayshik@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://wali-mosnad-ayshik.000webhostapp.com) for more details about me. I'm open to feedback and suggestions!
     
     
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
-<br>
-    
+    <div text-align=center>
+        
 ### 💻 Stack I Work With
-    
+   </div>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>
@@ -96,23 +103,98 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>
-<br>
     
 
 
 ## 📱**Scan to fly through my Portfolio**
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
 <div align="center">  
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+
+
+
+
+</div>
+<img width="40%" align="right" alt="Github Header" src="images/coding_2.gif" />
+<h3 align="left">Scan to see the Magic</h3>
+<br><br><br>
+<a href=""><img src="images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+
+    
+ <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/ayshik/" target="_blank">
+  <img align="center" alt="Ayshik | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/Ayshik_khan" target="_blank">
+  <img align="center" alt="Ayshik | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/ayshik_khan/" target="_blank">
+  <img align="center" alt="Ayshik | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:wali.mosnad.ayshik@gmail.com" >
+  <img align="center" alt="Ayshik | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/Aysh.STAR.AK">
+    <img align="center" alt="Ayshik | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  <p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<img width="40%" align="center" alt="Github Header" src="Images/coding_2.gif" />
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+</p>
+   
+  <p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
+  
+    
+    
+    
+ ![Ayshik's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ayshik&theme=redical&hide_border=true&area=true)
+| ![Ayshik's github stats](https://github-readme-stats.vercel.app/api?username=Ayshik&show_icons=true&theme=radical)             | ![Ayshik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayshik&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayshik&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ayshik&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<br><br>
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Ayshik&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
 
+<p  align="center">
     
-    
-    
-    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
     
     
     
@@ -121,10 +203,37 @@
     
     
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+ 
+  
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
+
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+
+  
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
+<p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+    <h2 align='center'>🆃🅷🅰🅽🅺 🆈🅾🆄! 🅲🅾🅼🅴 🅰🅶🅰🅸🅽!</h2>
+  <p  align="center">
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    </p>
+  
