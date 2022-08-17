@@ -27,7 +27,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I've completed B.sc in Computer Science and Engineering at American International University-Bangladesh.\
 💼 &nbsp;I'm currently working in shurjoMukhi Ltd. – The leading software outfit in Bangladesh as junior softare engineer.\
-🌱 &nbsp;I'm on track for learning more about Standard coding, Systems Design, and new echnologies.\
+🌱 &nbsp;I'm on track for learning more about Standard coding, Systems Design, and new technologies.\
 ✍️ &nbsp;In my free time, I watch movies and learn new things as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at wali.mosnad.ayshik@gmail.com! I'll try to respond as soon as I can.\
